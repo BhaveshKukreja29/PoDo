@@ -1,0 +1,4 @@
+made this project really long ago. will add more features soon.
+
+1. Improve UI, totally rewrite it. Need to make it responsive.
+2. Add functionality to assign a task to the timed session / add the ability to have todo lists (not sure)
