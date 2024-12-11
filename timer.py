@@ -52,6 +52,6 @@ def submit():
 
 
 btn = Button(root, text='Start', bd=5, command=submit)
-btn.place(x=0, y=30)
+btn.place(x=0, y=70)
 
 root.mainloop()
